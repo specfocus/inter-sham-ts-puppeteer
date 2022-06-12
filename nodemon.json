@@ -1,0 +1,11 @@
+{
+  "watch": [
+    "src",
+    "../graphql-focus/src",
+    "../node-focus/src",
+    "../spec-focus/src"
+],
+  "ext": "ts,json",
+  "ignore": ["src/**/*.spec.ts"],
+  "exec": "npx ts-node ./src/index.ts"
+}

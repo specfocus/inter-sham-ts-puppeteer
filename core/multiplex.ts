@@ -1,0 +1,3 @@
+class Sham extends Multiplexer {
+  
+}
